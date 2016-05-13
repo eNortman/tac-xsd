@@ -2992,7 +2992,7 @@ EUK - контроллер</xsd:documentation>
 					</xsd:documentation>
             </xsd:annotation>
          </xsd:element>
-         <xsd:element name="OrderData" maxOccurs="1" type="xsd:date"/>
+         <xsd:element name="OrderDate" maxOccurs="1" type="xsd:date"/>
          <xsd:element name="OrderStatusChangeDate" maxOccurs="1" minOccurs="1" type="xsd:date">
             <xsd:annotation>
                <xsd:documentation>
