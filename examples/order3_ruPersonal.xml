@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns0:TacPackage xmlns:ns0="http://www.example.org/"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.example.org/ file:/C:/Users/e221/Desktop/TacXsd_v2.12.xsd">
+    <MessageInfo>
+        <MessageId>WS6J18aKx</MessageId>
+        <MessageDate>2016-04-07</MessageDate>
+        <MessageOwn>FBU</MessageOwn>
+        <MessageRecipient>MICRON</MessageRecipient>
+    </MessageInfo>
+    <PackageInfo>
+        <PackageNumber>CMT-111</PackageNumber>
+        <PackageDate>2016-11-18</PackageDate>
+        <OvkId>CMT</OvkId>
+        <CardManufacturerId>MICRN</CardManufacturerId>
+        <Priority>1</Priority>
+    </PackageInfo>
+    <Order_v3>
+        <OrderNumber>CMT-100</OrderNumber>
+        <OrderDate>2017-02-17</OrderDate>
+        <OrderCardType>D</OrderCardType>
+        <CardNumber>RUMPNQ757408E7I5</CardNumber>
+        <OrderReason>newpd</OrderReason>
+        <RuPersonOrder>
+            <PersonInfo>
+                <NameFirst>Иван</NameFirst>
+                <NameMiddle>Петрович</NameMiddle>
+                <NameLast>Кузнецов</NameLast>
+                <Resident>true</Resident>
+                <Nationality>Рф</Nationality>
+                <BirthDate>1975-05-18</BirthDate>
+                <SNILS>165-575-160 10</SNILS>
+                <Credential>
+                    <Type>Паспорт</Type>
+                    <Series>7007</Series>
+                    <Number>555353</Number>
+                    <IssuedBy>УФМС РФ</IssuedBy>
+                    <Division>70</Division>
+                    <IssuedDate>2007-07-18</IssuedDate>
+                </Credential>
+                <PersonInn>5890413813</PersonInn>
+            </PersonInfo>
+            <PrevCardNumber>RUM74Q951151F95Q</PrevCardNumber>
+            <DriverLicense>
+                <DriverLicenseNumber>pAs2v9ALu</DriverLicenseNumber>
+                <DriverLicenseCountryEstrCode>91</DriverLicenseCountryEstrCode>
+                <DriverLicenseCountry>РФ</DriverLicenseCountry>
+                <DriverLicenseCountryTid>РФ</DriverLicenseCountryTid>
+                <DriverLicenseOrg>ГИБДД</DriverLicenseOrg>
+                <DriverLicenseIssuedDate>2011-02-08</DriverLicenseIssuedDate>
+            </DriverLicense>
+            <OrgName>ПАТП АТП</OrgName>
+            <OrgPostAddress>
+                <FullAddress>127997 79 ХМ Лесной город Н. Красивых молдавских партизан 34 3 а 43 86399515130132062027275966 BbbdEEce-ee23-ffcc-Ca45-Ed910E6DAD89</FullAddress>
+                <PostCode>127997</PostCode>
+                <RegionCode>79</RegionCode>
+                <AutonomousArea>ХМ</AutonomousArea>
+                <District>Лесной</District>
+                <Settlement>Город Н.</Settlement>
+                <Street>Красивых молдавских партизан</Street>
+                <House>34</House>
+                <Building>3</Building>
+                <Liter>а</Liter>
+                <Office>43</Office>
+                <FiasCode>86399515130132062027275966</FiasCode>
+                <FiasGUID>BbbdEEce-ee23-ffcc-Ca45-Ed910E6DAD89</FiasGUID>
+            </OrgPostAddress>
+            <Photo>
+                <AttachmentType>Photo</AttachmentType>
+                <FileFormat>PNG</FileFormat>
+                <Description>Фото в профиль</Description>
+                <Body>7380858869809068698676657689876875898686877673877672778172838985</Body>
+                <PageNo>null</PageNo>
+            </Photo>
+            <Sign>
+                <AttachmentType>Signature</AttachmentType>
+                <FileFormat>PNG</FileFormat>
+                <Description>подпись похожа на галочку но не всё так просто</Description>
+                <Body>68738390757979877478886977766773747681766675906972857374688887847777828071657379</Body>
+                <PageNo>null</PageNo>
+            </Sign>
+        </RuPersonOrder>
+    </Order_v3>
+	<Order_v3>
+		<OrderNumber>CMT-101</OrderNumber>
+		<OrderDate>2017-02-17</OrderDate>
+		<OrderCardType>D</OrderCardType>
+		<CardNumber>RUMPNQ757408E7I6</CardNumber>
+		<OrderReason>newpd</OrderReason>
+		<RuPersonOrder>
+			<PersonInfo>
+				<NameFirst>Николай</NameFirst>
+				<NameMiddle>Анатольевич</NameMiddle>
+				<NameLast>Сенцов</NameLast>
+				<Resident>true</Resident>
+				<Nationality>РФ</Nationality>
+				<BirthDate>1975-03-11</BirthDate>
+				<SNILS>125-575-161 10</SNILS>
+				<Credential>
+					<Type>Паспорт</Type>
+					<Series>7008</Series>
+					<Number>555357</Number>
+					<IssuedBy>УФМС РФ</IssuedBy>
+					<Division>70</Division>
+					<IssuedDate>2008-07-18</IssuedDate>
+				</Credential>
+				<PersonInn>5890413810</PersonInn>
+			</PersonInfo>
+			<PrevCardNumber>RUM74Q951151F967</PrevCardNumber>
+			<DriverLicense>
+				<DriverLicenseNumber>pAs2v67ALu</DriverLicenseNumber>
+				<DriverLicenseCountryEstrCode>61</DriverLicenseCountryEstrCode>
+				<DriverLicenseCountry>РФ</DriverLicenseCountry>
+				<DriverLicenseCountryTid>РФ</DriverLicenseCountryTid>
+				<DriverLicenseOrg>ГИБДД</DriverLicenseOrg>
+				<DriverLicenseIssuedDate>2007-02-08</DriverLicenseIssuedDate>
+			</DriverLicense>
+			<OrgName>ПАТП АТП</OrgName>
+			<OrgPostAddress>
+				<FullAddress>127991 71 ХМ Лесной город Н. Ленина 1 1 а 1 863995151301123275966 Bbb231ce-ee23-ffcc-Ca45-Ed910E6DAD89</FullAddress>
+				<PostCode>127991</PostCode>
+				<RegionCode>71</RegionCode>
+				<AutonomousArea>ХМ</AutonomousArea>
+				<District>Лесной</District>
+				<Settlement>город Н.</Settlement>
+				<Street>Ленина</Street>
+				<House>1</House>
+				<Building>1</Building>
+				<Liter>а</Liter>
+				<Office>1</Office>
+				<FiasCode>863995151301123275966</FiasCode>
+				<FiasGUID>Bbb231ce-ee23-ffcc-Ca45-Ed910E6DAD89</FiasGUID>
+			</OrgPostAddress>
+			<Photo>
+				<AttachmentType>Photo</AttachmentType>
+				<FileFormat>PNG</FileFormat>
+				<Description>фото</Description>
+				<Body>7380858869809068698676657689876875898686877673877672778172838985</Body>
+				<PageNo>null</PageNo>
+			</Photo>
+			<Sign>
+				<AttachmentType>Signature</AttachmentType>
+				<FileFormat>PNG</FileFormat>
+				<Description>подпись</Description>
+				<Body>68738390757979877478886977766773747681766675906972857374688887847777828071657379</Body>
+				<PageNo>null</PageNo>
+			</Sign>
+	</RuPersonOrder>
+</Order_v3>
+    
+</ns0:TacPackage>
